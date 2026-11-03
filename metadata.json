@@ -1,0 +1,6 @@
+{
+  "name": "StudyCraft - AI Academic Tutor & Exam Prep Kit",
+  "description": "Transform raw lecture notes, text, and document images into structured study kits with key concepts, practice exam questions, and interactive flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
