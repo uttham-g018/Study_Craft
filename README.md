@@ -1,6 +1,6 @@
-# STUDYROOM
+# STUDY-CRAFT
 
-STUDYROOM is an AI-powered study kit generator designed to make learning simpler, smarter, and more effective. It transforms uploaded study materials into structured learning resources, helping students understand concepts, practice questions, and revise efficiently in one place.
+STUDY-CRAFT is an AI-powered study kit generator designed to make learning simpler, smarter, and more effective. It transforms uploaded study materials into structured learning resources, helping students understand concepts, practice questions, and revise efficiently in one place.
 
 ## Features
 
@@ -21,7 +21,7 @@ STUDYROOM is an AI-powered study kit generator designed to make learning simpler
 1. **Upload:** The student uploads their study material.
 2. **Select:** The student chooses the preferred difficulty level.
 3. **Analyze:** Gemini AI processes the uploaded content and identifies important concepts.
-4. **Generate:** STUDYROOM creates summaries, practice questions, and flashcards based on the material.
+4. **Generate:** STUDYCRAFT creates summaries, practice questions, and flashcards based on the material.
 5. **Study:** The student uses the generated resources to understand, test, and revise the topic.
 
 ## Tech Stack
@@ -33,8 +33,8 @@ STUDYROOM is an AI-powered study kit generator designed to make learning simpler
 
 ## Project Goal
 
-STUDYROOM aims to bring concept learning, practice, and revision together in one AI-powered platform, making study sessions more focused, interactive, and productive.
+STUDYCRAFT aims to bring concept learning, practice, and revision together in one AI-powered platform, making study sessions more focused, interactive, and productive.
 
 ---
 
-**STUDYROOM — Make your study time more focused.**
+**STUDYCRAFT — Make your study time more focused.**
